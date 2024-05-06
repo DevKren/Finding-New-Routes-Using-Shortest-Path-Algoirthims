@@ -1,0 +1,33 @@
+Normal Bellman-Ford,,,,,Normal Dijkstras,,,,,A* Chebyshev Distance,,,
+Route,Distance ,Average Speed,Total Time ,,Route,Distance ,Average Speed,Total Time ,,Route,Distance ,Average Speed,Total Time 
+Roseville McDonald's,4.84 Miles,27 MPH,10.97 Minutes,,Roseville McDonald's,4.84 Miles,27 MPH,10.97 Minutes,,Roseville McDonald's,5.81 Miles,55 MPH,6.33 Minutes
+Mystic Lake,26.46 Miles,42 MPH,38.03 Minutes ,,Mystic Lake,26.46 Miles,42 MPH,38.03 Minutes,,Mystic Lake,27.7 Miles,56 MPH,29.63 Minutes
+MOA,9.55 Miles,30 MPH,19.36 Minutes,,MOA,9.55 Miles,30 MPH,19.36 Minutes,,MOA,14.24 Miles,54  MPH,15.89 Minutes
+Duluth,148.96 Miles,68 MPH ,131.25 Minutes,,Duluth,148.96 Miles,68 MPH,131.25 Minutes,,Duluth,152.94 Miles,69 MPH,132.74 Minutes
+Lake Miltona ,135.85 Miles,64 MPH,127.28 Minutes,,Lake Miltona ,135.85 Miles,64 MPH,127.28 Minutes,,Lake Miltona ,141.16 Miles,67 MPH,126.67 Minutes
+,,,,,,,,,,,,,
+Weight Type,,,,,Motorway Weights ,,,,,Normal A*,,,
+Rush Hour ,,,,,Route,Distance ,Average Speed,Total Time ,,Route ,Distance ,Average Speed,Total Time 
+Route,Distance,Average Speed,Total Time ,,Roseville McDonald's,5.83 Miles,55.47 MPH,7 Minutes,,Roseville McDonald's,4.84 Miles,26.5 MPH,10.97 Minutes
+Roseville McDonald's,5.81 Miles,55 MPH,6.33 Minutes,,Mystic Lake,27.39 Miles,56.46 MPH,29  Minutes,,Mystic Lake,26.46 Miles,41.74 MPH,38.03 Minutes
+Mystic Lake,27.70 Miles,56 MPH,29.63 Minutes ,,MOA,14.02 Miles,54.72 MPH,16 Minutes,,MOA,9.55 Miles,29.6 MPH,19.36 Minutes
+MOA,14.24 Miles,54 MPH,15.89 Minutes,,Duluth,152.79 Miles,69.05 MPH,2 hours 12 Minutes,,Duluth,148.96 Miles,68.1 MPH,131.25 Minutes
+Duluth,152.94 Miles,69 MPH,132.84 Minutes,,Lake Miltona ,141.16 Miles,66.88 MPH,2 hours 7 Minutes,,Lake Miltona ,135.85 Miles,64.04 MPH,127.28 Minutes
+Lake Miltona ,141.16 Miles,67 MPH,126.67 Minutes,,,,,,,,,,
+,,,,,Rush Hour ,,,,,,,,
+Road Type ,,,,,Route ,Distance,Average Speed,Total Time,,,,,
+Route,Distance,Average Speed,Total Time ,,Roseville McDonald's,5.81 Miles,55 MPH,6 Minutes,,,,,
+Roseville McDonald's,5.83 Miles,55 MPH,6.3 Minutes,,Mystic Lake,27.7 Miles,56 MPH,30 Minutes,,,,,
+Mystic Lake,27.47 Miles,56 MPH,29.19 Minutes,,MOA,14.24 Miles,53 MPH,16 Minutes,,,,,
+MOA,14 Miles ,54 MPH,15.47 Minutes,,Duluth,152.94 Miles,69 MPH,2 hours 21 Minutes,,,,,
+Duluth,152.79 Miles,69 MPH,132.76 Minutes,,Lake Miltona ,141.16 Miles,67 MPH,126.67 Minutes ,,,,,
+Lake Miltona ,146.08 Miles,67 MPH,129.96 Minutes,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,Weather Conditions,,,,,,,,
+Weather Conditions,,,,,Route ,Distance,Average Speed,Total Time,,,,,
+Route,Distance,Average Speed,Total Time,,Roseville McDonald's,4.84 Miles,35 MPH,8.31 Minutes,,,,,
+Roseville McDonald's,4.84 Miles,35 MPH,8.31 Minutes,,Mystic Lake,26.46 Miles,40 MPH,45.35 Minutes,,,,,
+Mystic Lake,26.46 Miles,40 MPH,45.35 Minutes,,MOA,9.55 Miles,40 MPH,14.33 Minutes ,,,,,
+MOA,9.55 Miles,40 MPH,14.33 Minutes ,,Duluth,148.96 Miles ,45 MPH,198.61 Minutes ,,,,,
+Duluth,148.96 Miles ,45 MPH,198.61 Minutes ,,Lake Miltona ,135.85 Miles,45 MPH ,181.13 Minutes ,,,,,
+Lake Miltona ,135.85 Miles,45 MPH ,181.13 Minutes ,,,,,,,,,,
